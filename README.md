@@ -1,2 +1,7 @@
-# pet-projects
-Experimental implementations of data analysis and machine learning methods across various problem domains.
+# Репозиторий с PET-проектами
+
+## Описание проектов 
+
+| Название проекта | Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Прогнозирование свойств дизельного топлива](fuel_forecasting) | Разработка моделей регрессии для оценки физико-химических характеристик дизельного топлива на основе ближней инфракрасной спектроскопии. Проведена предобработка высокоразмерных данных и сравнение моделей: линейная регрессия, CatBoost, SVR. | *pandas*, *numpy*<br>*matplotlib*, *seaborn*<br>*missingno*<br>*PCA*, *GridSearchCV*<br>*Ridge*, *SVR*<br>*CatBoostRegressor* |
