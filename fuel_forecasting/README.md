@@ -45,3 +45,6 @@
 * Оценка качества:
 
   * Используются метрики регрессии (MAE, RMSE, R²)
+
+## Используемые библиотеки
+ *pandas*, *numpy*<br>*matplotlib*, *seaborn*<br>*missingno*<br>*PCA*, *GridSearchCV*<br>*Ridge*, *SVR*<br>*CatBoostRegressor*
